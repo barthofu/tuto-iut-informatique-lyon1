@@ -31,19 +31,19 @@ Il y a trois aspects à comprendre et maitriser pour faire du responsive :
 
   Pour savoir quelle max-width mettre pour quel résolution d'écran, il faut utiliser la console de développement en utilisant f12 (ou clic droit -> inspecter l'élément) sur une page web. 
   
-  Il ne vous reste plus qu'à cliquer sur cet icone en haut à gauche de la console : ![image-20210101224831961](C:\Users\azkil\AppData\Roaming\Typora\typora-user-images\image-20210101224831961.png)
+  Il ne vous reste plus qu'à cliquer sur cet icone en haut à gauche de la console : ![image-20210101224831961](https://i.imgur.com/02hmpmg.png)
   
   
   
   Ce qui devrait vous donner une interface de ce style : 
   
-  ![image-20210101224924910](C:\Users\azkil\AppData\Roaming\Typora\typora-user-images\image-20210101224924910.png)
+  ![image-20210101224924910](https://i.imgur.com/Dk7Yi4i.png)
   
   
   
   Il ne vous reste plus qu'à cliquer sur les différents segments de cette barre pour voir comment le site que tu fais réagis en fonction des différentes tailles :
   
-  ![image-20210101225020979](C:\Users\azkil\AppData\Roaming\Typora\typora-user-images\image-20210101225020979.png)
+  ![image-20210101225020979](https://i.imgur.com/gKCo3Qd.png)
 
 
 
