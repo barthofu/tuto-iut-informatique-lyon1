@@ -1,0 +1,2 @@
+- [Tuto GIT](./tutos/git.md) | Petit tuto pour mettre en place un environnement propice à la bonne utilisation de git.
+- [Tuto Responsive Web](./tutos/web-responsive.md) | Présentation des 3 outils essentiels au responsive de base sur une page web.
